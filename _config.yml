@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "윤지원"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/20191114515059-removebg-preview.png"
   bio              : "Hafs 16"
   location         : "대한민국, 서울"
   email            : "21-20720@hafs.hs.kr"
