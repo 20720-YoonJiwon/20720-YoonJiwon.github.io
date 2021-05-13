@@ -12,7 +12,9 @@ layout: single
 ---
 ### * 겨울왕국II
 ![겨울왕국II][FrozenII]
+
 [FrozenII]: https://ko.wikipedia.org/wiki/%EA%B2%A8%EC%9A%B8%EC%99%95%EA%B5%AD_2#/media/%ED%8C%8C%EC%9D%BC:%EA%B2%A8%EC%9A%B8%EC%99%95%EA%B5%AD2_%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg
+
 위험에 빠진 아렌델 왕국을 구해야만 하는 엘사와 안나는 숨겨진 과거의 진실을 찾아 크리스토프, 올라프, 그리고 스벤과 함께 위험천만한 놀라운 모험을 떠나는 이야기이다.
 
 ---
