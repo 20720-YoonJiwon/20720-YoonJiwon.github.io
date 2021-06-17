@@ -4,7 +4,7 @@ title: "유튜브 동영상 삽입하기"
 toc: true
 toc_sticky: true
 toc_label: "페이지 주요 목차"
-categories: 펭수
+categories: 자이언트 펭수
 last_modified_at: 2021-05-27 T08:06:00-05:00
 ---
 
