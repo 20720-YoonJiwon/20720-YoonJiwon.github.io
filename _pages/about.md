@@ -1,0 +1,9 @@
+---
+title: "블로그 소개"
+permalink: /about/
+layout: single
+---
+
+- 이 블로그는 음...
+- 잘 모르겠어여....
+- 허허허...
